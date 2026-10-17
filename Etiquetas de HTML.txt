@@ -1,0 +1,74 @@
+Etiquetas de HTML
+
+
+Etiqueta	Uso
+
+<p></p> ------- “Paragraph”, te permite introducir párrafos.
+
+<a></a> ------- “Anchor”, te permite introducir hipervínculos.
+
+<b></b>	------- “Bold”, te permite escribir en negritas.
+
+<i></i>	------- “Italics”, te permite escribir en cursiva.
+
+<u></u>	------- “Underline”, te permite escribir texto subrayado.
+
+<ul></ul> ----- “Unordered list”, te permite crear una lista desordenada (con puntitos)
+
+<ol></ol> ----- “Ordered list”, te permite introducir una lista ordenada (con números o letras).
+
+<li></li> ----- “List item”, se colocan dentro de un <ul> o un <ol>, y se convierten en los elementos de la lista.
+
+<h1> al <h6> -- “Heading”, insertan títulos y subtítulos en tu sitio web. El número que acompaña a la “h” representa el 		nivel del título, dónde h1 tiene la mayor jerarquía.
+
+<nav></nav> --- Se usa para identificar el panel de navegación del sitio, dónde están los links al resto del contenido de 		tu sitio web.
+
+<section> ----- Se usa para separar un elemento html en secciones, cada una con un propósito.
+
+<article> ----- Se usa para identificar artículos individuales dentro de un sitio web. Se usa mucho para identificar 			entradas de un blog.
+
+<figure> ------ Se usa como un contenedor de imágenes, para manipular su tamaño con mayor facilidad en CSS, y para agregar 		un pie de foto.
+
+<div></div> --- Este es un comodín. Es un contenedor que puede tener lo que sea dentro. Pero no beneficia la accesibilidad 		o el posicionamiento en buscadores.
+
+
+
+Estas etiquetas se cierran por si mismas:
+
+
+Etiqueta	Uso
+
+<area> -------- la etiqueta de área HTML define un área en una imagen en función de las coordenadas que luego acepta una 		URL y se convierte en un área en la que se puede hacer clic que se comporta como un hipervínculo
+
+<base> -------- Define la URL base para todas las URL relativas en el documento
+
+<br> ---------- br se usa para crear un salto de línea
+
+<col> --------- Define una columna en una tabla para definir un estilo común o propiedad de esa columna
+
+<embed> ------- Se utiliza para incrustar contenido externo en la página web
+
+<hr> ---------- Crea una línea horizontal
+
+<img> --------- Se usa para definir una imagen
+
+<input> ------- Se utiliza para crear un campo de entrada
+
+<link> -------- se usa principalmente para agregar hojas de estilo externas al documento HTML
+
+<meta> -------- Se utiliza para dar metadatos a la página web
+
+<param> ------- Define parámetro al objeto
+
+<source> ------ se utiliza para brindar múltiples medios de recursos para audio, video e imágenes
+
+<track> ------- se utiliza en archivos multimedia para proporcionar pistas de texto de tiempos
+
+<wbr> --------- Proporciona una posición de salto de palabra en un párrafo para los navegadores
+
+
+
+
+
+
+
